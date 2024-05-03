@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 769.78 477.13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        font-family: ProximaNova-BlackIt, 'Proxima Nova';
+        font-size: 136.8px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="99.86" y1="238.56" x2="330.98" y2="238.56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e9b72"/>
+      <stop offset=".19" stop-color="#3c885d"/>
+      <stop offset=".38" stop-color="#227a4d"/>
+      <stop offset=".58" stop-color="#0f7041"/>
+      <stop offset=".78" stop-color="#036a3a"/>
+      <stop offset="1" stop-color="#006838"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="338.83" y1="331.69" x2="479.73" y2="331.69" gradientTransform="translate(479.73) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5d9b73"/>
+      <stop offset="1" stop-color="#006938"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-5" d="M306.37,0S171.66,49.05,121.43,180.81c-44.51,116.75-7.75,259.24,1.2,290.19,88.25-161.76,120.92-305.56,120.92-305.56-6.08,115.84-76.23,243.09-119.28,311.04,.13,.41,.21,.65,.21,.65,0,0,134.71-49.05,184.94-180.81C359.65,164.56,306.37,0,306.37,0Z"/>
+  <path class="cls-1" d="M15,186.26s82.13,29.9,112.75,110.23c27.14,71.18,4.73,158.04-.73,176.91-53.8-98.61-73.72-186.28-73.72-186.28,3.71,70.62,46.47,148.19,72.72,189.62-.08,.25-.13,.4-.13,.4,0,0-82.13-29.9-112.75-110.23-30.62-80.32,1.85-180.65,1.85-180.65Z"/>
+  <text class="cls-2" transform="translate(369.64 199.4)"><tspan class="cls-3" x="0" y="0">W</tspan><tspan class="cls-4" x="125.04" y="0">aste</tspan><tspan x="0" y="108.11">Not</tspan><tspan x="0" y="216.22">Cafe.</tspan></text>
+</svg>
